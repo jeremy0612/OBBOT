@@ -2,11 +2,11 @@
 This is an observation robot made for education reason and farther purposes. !
 =================================================================================
 
-			CÁC CHỨC NĂNG CHÍNH CỦA HỆ THỐNG :
+#CÁC CHỨC NĂNG CHÍNH CỦA HỆ THỐNG :
 	
-	Phía MCU:
+*Phía MCU:
 
-- MCU xử lý 8051 --> AT89C52 (đã có ) 
+- MCU xử lý AVR --> Atmega8 (đã có ) 
 - Giao tiếp bluetooth với Desktop 
 	--> module bluetooth (đã có ) 
 		https://nshopvn.com/product/module-thu-phat-bluetooth-hc-06-chip-don-bt06/
@@ -28,7 +28,7 @@ This is an observation robot made for education reason and farther purposes. !
 - Thông báo gặp vật cản  
 	-->Led, buzzer ( đã có ) 
 	
-	Phía Desktop:
+*Phía Desktop:
 
 - Nhận dữ liệu từ sensors từ MCU
 	--> Python/Pybluez
