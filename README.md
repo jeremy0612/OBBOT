@@ -40,3 +40,7 @@ This is an observation robot made for education reason and farther purposes. !
 	-->Python
 		https://pypi.org/project/PyBluez/
 		https://pybluez.readthedocs.io/en/latest/
+		
+Tài liệu tìm hiểu ATMEGA8:
+- http://www.hocavr.com/2018/06/bai-2-cau-truc-avr.html
+- https://github.com/bartvoet/groupt_microcontrollers/blob/d9c9957b33f6e6d8b3f67e321ee49d96d47d58d8/nl/architecture/architecture_avratmega165.md#stack-en-stackpointer
